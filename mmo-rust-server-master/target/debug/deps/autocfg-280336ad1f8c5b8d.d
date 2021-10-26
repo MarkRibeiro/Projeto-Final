@@ -1,0 +1,9 @@
+C:\Users\Mark\Downloads\mmo-rust-server-master\target\debug\deps\autocfg-280336ad1f8c5b8d.rmeta: C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\lib.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\error.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\version.rs
+
+C:\Users\Mark\Downloads\mmo-rust-server-master\target\debug\deps\libautocfg-280336ad1f8c5b8d.rlib: C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\lib.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\error.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\version.rs
+
+C:\Users\Mark\Downloads\mmo-rust-server-master\target\debug\deps\autocfg-280336ad1f8c5b8d.d: C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\lib.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\error.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\version.rs
+
+C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\lib.rs:
+C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\error.rs:
+C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1\src\version.rs:

@@ -1,0 +1,11 @@
+C:\Users\Mark\Documents\Projeto-Final\sevidor\target\debug\deps\tokio_tungstenite-57e8c761dffd40bc.rmeta: C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\lib.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\compat.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\connect.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\handshake.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\stream.rs
+
+C:\Users\Mark\Documents\Projeto-Final\sevidor\target\debug\deps\libtokio_tungstenite-57e8c761dffd40bc.rlib: C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\lib.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\compat.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\connect.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\handshake.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\stream.rs
+
+C:\Users\Mark\Documents\Projeto-Final\sevidor\target\debug\deps\tokio_tungstenite-57e8c761dffd40bc.d: C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\lib.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\compat.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\connect.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\handshake.rs C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\stream.rs
+
+C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\lib.rs:
+C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\compat.rs:
+C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\connect.rs:
+C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\handshake.rs:
+C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tungstenite-0.15.0\src\stream.rs:

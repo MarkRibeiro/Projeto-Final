@@ -1,0 +1,12 @@
+/mnt/c/Users/Mark/Documents/Projeto-Final/sevidor/target/debug/deps/proc_macro2-1a26456b4690341d.rmeta: /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/lib.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/marker.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/parse.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/detection.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/fallback.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/wrapper.rs
+
+/mnt/c/Users/Mark/Documents/Projeto-Final/sevidor/target/debug/deps/libproc_macro2-1a26456b4690341d.rlib: /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/lib.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/marker.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/parse.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/detection.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/fallback.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/wrapper.rs
+
+/mnt/c/Users/Mark/Documents/Projeto-Final/sevidor/target/debug/deps/proc_macro2-1a26456b4690341d.d: /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/lib.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/marker.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/parse.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/detection.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/fallback.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/wrapper.rs
+
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/lib.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/marker.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/parse.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/detection.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/fallback.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.30/src/wrapper.rs:

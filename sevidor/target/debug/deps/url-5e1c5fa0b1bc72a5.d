@@ -1,0 +1,13 @@
+/mnt/c/Users/Mark/Documents/Projeto-Final/sevidor/target/debug/deps/url-5e1c5fa0b1bc72a5.rmeta: /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/lib.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/host.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/origin.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/parser.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/path_segments.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/slicing.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/quirks.rs
+
+/mnt/c/Users/Mark/Documents/Projeto-Final/sevidor/target/debug/deps/liburl-5e1c5fa0b1bc72a5.rlib: /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/lib.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/host.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/origin.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/parser.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/path_segments.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/slicing.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/quirks.rs
+
+/mnt/c/Users/Mark/Documents/Projeto-Final/sevidor/target/debug/deps/url-5e1c5fa0b1bc72a5.d: /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/lib.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/host.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/origin.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/parser.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/path_segments.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/slicing.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/quirks.rs
+
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/lib.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/host.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/origin.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/parser.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/path_segments.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/slicing.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/quirks.rs:

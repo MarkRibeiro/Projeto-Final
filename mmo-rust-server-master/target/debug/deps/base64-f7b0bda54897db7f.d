@@ -1,0 +1,13 @@
+/home/mark/mmo-rust-server-master/target/debug/deps/base64-f7b0bda54897db7f.rmeta: /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/lib.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/chunked_encoder.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/display.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/line_wrap.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/tables.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/encode.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/decode.rs
+
+/home/mark/mmo-rust-server-master/target/debug/deps/libbase64-f7b0bda54897db7f.rlib: /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/lib.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/chunked_encoder.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/display.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/line_wrap.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/tables.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/encode.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/decode.rs
+
+/home/mark/mmo-rust-server-master/target/debug/deps/base64-f7b0bda54897db7f.d: /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/lib.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/chunked_encoder.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/display.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/line_wrap.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/tables.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/encode.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/decode.rs
+
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/lib.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/chunked_encoder.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/display.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/line_wrap.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/tables.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/encode.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/decode.rs:
