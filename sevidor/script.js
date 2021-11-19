@@ -1,4 +1,4 @@
-var aWebSocket = new WebSocket("ws://[fd7a:115c:a1e0:ab12:4843:cd96:6266:994b]:3012");
+var aWebSocket = new WebSocket("ws://[::1]:3012");
 aWebSocket.onopen = function(event) {
     console.log("WebSocket is open now.");
 };

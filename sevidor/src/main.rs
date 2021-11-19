@@ -1,35 +1,36 @@
-extern crate tungstenite;
+extern crate tokio_tungstenite;
 
-use std::net::{TcpListener, TcpStream};
-use std::thread;
-//use tokio_tungstenite::accept_async;
+use tokio::net::{TcpListener, TcpStream};
+use futures_util::{future, SinkExt};
+use std::{thread};
+use futures_util::stream::{SplitSink, SplitStream};
+use tokio_tungstenite::{accept_async, WebSocketStream};
+use tokio_tungstenite::tungstenite::Message;
+use futures_util::StreamExt;
+use futures_util::TryStreamExt;
 //use tokio_tungstenite::tungstenite::accept;
-use tungstenite::{accept, Message, WebSocket};
+//use tungstenite::{accept, Message, WebSocket};
 
-fn main() { //estabelece o servidor e recebe mensagens do cliente
-    let server = TcpListener::bind("[::]:3012").unwrap(); //ouvindo a porta 3012
-    for stream in server.incoming() { //avalia solicitaçoes de conexão
-        match &stream {
-            Ok(_stream) => { //conexão valida
-                println!("Nova Conexão!");
-            }
+#[tokio::main]
+async fn main() { //estabelece o servidor e recebe mensagens do cliente
+    let server = TcpListener::bind("[::1]:3012").await.unwrap(); //ouvindo a porta 3012
 
-            Err(_e) => { //conexão invalida
-                println!("Erro ao estabelecer conexão");
-                continue
-            }
-        }
+    while let Ok((stream, addr)) = server.accept().await { //avalia solicitaçoes de conexão
+        let mut websocket = accept_async(stream).await.unwrap(); //aceita conexão
+        let (mut outgoing, mut incoming) = websocket.split();
+        tokio::spawn(handle_connection(incoming, outgoing));
 
-        let mut websocket = accept(stream.unwrap()).unwrap(); //aceita conexão
-        loop {
-            let message = websocket.read_message().unwrap();
-            _process_message(&mut websocket, message);
-        }
     }
 }
 
-fn _process_message(websocket:&mut WebSocket<TcpStream>, message:Message){ //responde o cliente
-    let _ = websocket.write_message(message);
-    let _ = websocket.write_pending();
-    
+async fn handle_connection(mut incoming: SplitStream<WebSocketStream<TcpStream>>, mut outgoing: SplitSink<WebSocketStream<TcpStream>, Message>){
+    loop {
+        let msg = incoming.next().await.unwrap().unwrap();
+        _process_message(&mut outgoing, msg).await;
+    }
+}
+
+async fn _process_message(websocket:&mut SplitSink<WebSocketStream<TcpStream>, Message>, message:Message){ //responde o cliente
+    let _ = websocket.send(message).await;
+    let _ = websocket.flush().await;
 }
