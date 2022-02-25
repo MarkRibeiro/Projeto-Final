@@ -1,1 +1,1 @@
-C:\Users\Mark\Documents\Projeto-Final\sevidor\target\debug\sevidor.exe: C:\Users\Mark\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-util-0.3.17\no_atomic_cas.rs C:\Users\Mark\Documents\Projeto-Final\sevidor\src\main.rs
+C:\Users\Mark\Documents\Projeto-Final\sevidor\target\debug\sevidor.exe: C:\Users\Mark\Documents\Projeto-Final\sevidor\src\main.rs

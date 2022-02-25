@@ -1,0 +1,13 @@
+[package]
+name = "sevidor"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tungstenite = "0.16.0"
+futures-util = {version = "0.3.17", features = ["default", "sink"]}
+tokio = {version = "1.14.0", features = ["macros", "rt-multi-thread", "net"]}
+url = "2.2.2"
+rand = "0.8.5"
