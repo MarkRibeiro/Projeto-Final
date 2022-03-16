@@ -54,7 +54,7 @@ fn cria_matriz() -> Vec<Vec<String>> {
     for _ in 0..10 {
         vetor.push("white".to_string());
     }
-    for _ in 0..10 {
+    for _ in 0..20 {
         matriz.push(vetor.clone());
     }
     return matriz;
@@ -85,7 +85,7 @@ async fn _process_message(websocket: Arc<Mutex<WebSocket<TcpStream>>>, message:M
     let mut websocket = websocket.lock().unwrap();
     //let _ = (*websocket).write_message(msg.clone());
     let mut state = current_state.lock().unwrap();
-    if info[0]=="fst" {
+    if info[0]=="conecta" {
         let jogador = Jogador{
             //nome: "mark".to_string(),
             cor: info[1].to_string(),
@@ -94,18 +94,18 @@ async fn _process_message(websocket: Arc<Mutex<WebSocket<TcpStream>>>, message:M
         };
         state.jogadores.push(jogador);
     }
-    if info[0]=="atu" {
+    if info[0]=="atualiza" {
         if info[1] == "cima" {
-            state.jogadores[0].posi.y -= 50;
+            state.jogadores[0].posi.y -= 1;
         }
         if info[1] == "baixo" {
-            state.jogadores[0].posi.y += 50;
+            state.jogadores[0].posi.y += 1;
         }
         if info[1] == "esquerda" {
-            state.jogadores[0].posi.x -= 50;
+            state.jogadores[0].posi.x -= 1;
         }
         if info[1] == "direita" {
-            state.jogadores[0].posi.x += 50;
+            state.jogadores[0].posi.x += 1;
         }
     }
     else if info[0]=="pinta" {
@@ -114,7 +114,7 @@ async fn _process_message(websocket: Arc<Mutex<WebSocket<TcpStream>>>, message:M
         if let Ok(x) = novo_x{
             if let Ok(y) = novo_y {
                 //println!("x:{}, y:{}", X/50, Y/50);
-                state.mapa[x/50][y/50] = "green".to_string();
+                state.mapa[x][y] = "green".to_string();
             }
         }
     }

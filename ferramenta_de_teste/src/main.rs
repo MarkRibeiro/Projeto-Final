@@ -13,16 +13,16 @@ fn main() {
         aux += 1;
         let mut msg="oi";
         if movimento == 0 {
-            msg = "atu;cima";
+            msg = "atualiza;cima";
         }
         if movimento == 1 {
-            msg = "atu;baixo";
+            msg = "atualiza;baixo";
         }
         if movimento == 2 {
-            msg = "atu;esquerda";
+            msg = "atualiza;esquerda";
         }
         if movimento == 3 {
-            msg = "atu;direita";
+            msg = "atualiza;direita";
         }
         //receber resposta do servidor
 
